@@ -8,4 +8,5 @@ Creative coding involves using programming languages to create artworks, interac
 - Interactivity: Many creative coding projects involve interactivity, which allows viewers to engage with the work in some way. This can involve using sensors, cameras, or other input devices to control the artwork or installation.
 - Iteration: Creative coding often involves an iterative process of development, testing, and refinement. This process requires a willingness to experiment, make mistakes, and try again until the desired outcome is achieved.
 - Aesthetic sensibility: Creative coding involves making aesthetic decisions that contribute to the visual impact of the work. This requires a sense of design, composition, color theory, and other principles of visual art.
+
 The principles of creative coding involve a combination of technical skills, artistic sensibility, experimentation, and collaboration, all with the goal of using code to create innovative and engaging artworks and installations.
